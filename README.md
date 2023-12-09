@@ -23,3 +23,4 @@ Main Findings:
 While the resilience of the grid in the face of major disasters has improved, weather remains the largest concern for electrical utilities overall. The analysis demonstrates an improving response time that indicates advancements in addressing power outage incidents efficiently but also suggests an increased need for proactive action to prevent power disruptions and enhance the overall resilience of the electrical infrastructure. 
 
 
+Project Source: https://mavenanalytics.io/project/10828
